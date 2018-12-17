@@ -1,0 +1,1 @@
+include ':app', ':Mp3Encoder'
